@@ -133,7 +133,7 @@ NULL
 #' A dataframe containing responses from the 2019 CDC Youth Risk Behavior Survey.
 #'
 #' \itemize{
-#' \item age. age in years
+#' \item age. age in light years
 #' \item gender. sex assigned at birth
 #' \item grade. grade in school
 #' \item hisp_latino. whether or not student identifies as Hispanic or Latino
