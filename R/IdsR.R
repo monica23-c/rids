@@ -168,7 +168,7 @@ NULL
 #' @keywords dataset
 #' @name cdc
 #' @usage data(cdc)
-#' @format A data frame with 13,677 observations of 30 variables
+#' @format A data frame with 20,000 observations of 100 variables
 #' @source \url{http://www.cdc.gov/HealthyYouth/yrbs/index.htm}
 NULL
 
