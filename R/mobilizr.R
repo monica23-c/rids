@@ -130,7 +130,7 @@ NULL
 
 #' CDC Youth Risk Behaviour Survey Data
 #'
-#' A dataset containing responses from the 2019 CDC Youth Risk Behavior Survey.
+#' A dataframe containing responses from the 2019 CDC Youth Risk Behavior Survey.
 #'
 #' \itemize{
 #' \item age. age in years
