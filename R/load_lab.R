@@ -318,7 +318,7 @@ load_pd <- function(lab) {
 	url <- paste0('https://raw.githubusercontent.com/monica23-c/newids_labs/main/',
                      "/AdvPD/" , toString(lab), '.html')
   }else if (lab>6) {
-	url <- paste0('https://raw.githubusercontent.com/monica23-c/newids_labs/mainr/',
+	url <- paste0('https://raw.githubusercontent.com/monica23-c/newids_labs/main/',
                      "/AdvPD/labAdvPD" , toString(lab), 'Rev.html')
   }else{
 	url <- lab_urls[lab]
