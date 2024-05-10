@@ -106,10 +106,6 @@ load_labs <- function(lab) {
   #   lab_urls <- paste0("https://raw.githubusercontent.com/IDSUCLA/ids_labs/cvsd-labs/",
   #                      .format_lab_title(lab_titles), '.html')
   # } else {
-  #   # IDS Server: Pull labs from the master branch
-  #   lab_urls <- paste0('http://gh.IDSUCLA.org/ids_labs/',
-  #                      .format_lab_title(lab_titles), '.html')
-  # }
 
   lab_urls <- paste0('https://raw.githubusercontent.com/monica23-c/newids_labs/main/',
                      .format_lab_title(lab_titles), '.html')
